@@ -28,7 +28,7 @@ def while_iterator(number_of_times)
   while counter < 7
   phrase = "Welcome to Flatiron School's Web Development Course!"
   puts phrase
-end
+  end
   
 end
 
